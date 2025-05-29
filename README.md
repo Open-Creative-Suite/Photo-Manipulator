@@ -5,9 +5,16 @@
 **Project Vision:**  
 The goal is to make Photo Manipulator instantly familiar to users of Adobe Photoshop, so creative professionals can switch without having to relearn workflows. The long-term milestone is for all Open Creative Suite apps to work together as a seamless ecosystem.
 
+Many FOSS creative projects have dated UI/UX and lack true integration. My aim is to build a modern, intuitive experience and a real ecosystem—where apps from this suite and other projects can work together seamlessly.
+
 - **No AI, no bloatware:** 100% FOSS, focused on creative freedom and performance.
 - **For professionals:** Intuitive, powerful, and ready for real-world creative work.
-- **Community-driven:** Contributions from developers, designers, and users are welcome.
+- **Ecosystem-first:** Designed for seamless integration with other apps, including third-party FOSS tools.
+
+---
+
+**A Call for Developers and Designers:**  
+I am not a developer or a UI/UX designer—just someone fed up with Adobe and the lack of a true FOSS alternative. If you’re passionate about open-source, design, or development, your help is needed to make this vision a reality. All contributions are welcome!
 
 **How to Get Involved:**
 - Star and watch this repo to follow progress.
