@@ -19,7 +19,7 @@ I am not a developer or a UI/UX designer, just someone fed up with Adobe and the
 - Star and watch this repo to follow progress.
 - Check out the issues for ways to help.
 - Open a discussion if you have ideas or questions.
-- See CONTRIBUTING.md for guidelines.
+- See [CONTRIBUTING.md](https://github.com/Open-Creative-Suite/Photo-Manipulator/blob/main/CONTRIBUTING.md) for guidelines.
 
 *Photo Manipulator is just one app in Open Creative Suite. If you’re interested in helping with other apps (vector design, desktop publishing, etc.), please reach out or check the other repositories!*
 
