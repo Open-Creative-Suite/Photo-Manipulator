@@ -1,1 +1,1 @@
-# Photo-Editor
+# Photo Manipulator
