@@ -13,7 +13,7 @@ Many FOSS creative projects have dated UI/UX and lack true integration. My aim i
 
 ---
 
-**A Call for Developers and Designers:**  
+## **A Call for Developers and Designers:**  
 I am not a developer or a UI/UX designer—just someone fed up with Adobe and the lack of a true FOSS alternative. If you’re passionate about open-source, design, or development, your help is needed to make this vision a reality. All contributions are welcome!
 
 **How to Get Involved:**
